@@ -119,25 +119,3 @@ const styles = StyleSheet.create({
     color:'#fff',
   },
 });
-
-
-
-/*
-        <TextInput
-        style={styles.input}
-        keyboardType={"numeric"}
-        value={toAmount}
-        onChangeText={handleTextFrom}
-        defaultValue={toAmount}
-        />
-
-
-        <TextInput
-        style={styles.input}
-        keyboardType={"numeric"}
-        value={fromAmount}
-        onChangeText={handletextTO}
-        defaultValue={fromAmount}
-        />
-      
-*/
