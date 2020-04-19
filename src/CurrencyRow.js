@@ -70,18 +70,3 @@ export default function CurrencyRow(props) {
     },
   });
   
-
-
-  /*
-  
-      <View style={styles.picker}>
-      <Picker selectedValue={tocurrency}
-      mode={"dropdown"}
-      onValueChange={(itemValue) => setTocurrency(itemValue)}
-       >
-         {currency.map(item =>(
-            <Picker.Item key={item} label={item} value={item} />
-         ))}
-      
-       </Picker>
-  */
